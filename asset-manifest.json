@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/OTMovies/static/css/main.333c9fac.chunk.css",
-    "main.js": "/OTMovies/static/js/main.e06c240d.chunk.js",
-    "main.js.map": "/OTMovies/static/js/main.e06c240d.chunk.js.map",
+    "main.js": "/OTMovies/static/js/main.203897e9.chunk.js",
+    "main.js.map": "/OTMovies/static/js/main.203897e9.chunk.js.map",
     "runtime-main.js": "/OTMovies/static/js/runtime-main.ebb86fe7.js",
     "runtime-main.js.map": "/OTMovies/static/js/runtime-main.ebb86fe7.js.map",
     "static/css/2.25dc03cb.chunk.css": "/OTMovies/static/css/2.25dc03cb.chunk.css",
-    "static/js/2.088e2ce0.chunk.js": "/OTMovies/static/js/2.088e2ce0.chunk.js",
-    "static/js/2.088e2ce0.chunk.js.map": "/OTMovies/static/js/2.088e2ce0.chunk.js.map",
+    "static/js/2.df850f55.chunk.js": "/OTMovies/static/js/2.df850f55.chunk.js",
+    "static/js/2.df850f55.chunk.js.map": "/OTMovies/static/js/2.df850f55.chunk.js.map",
     "index.html": "/OTMovies/index.html",
     "static/css/2.25dc03cb.chunk.css.map": "/OTMovies/static/css/2.25dc03cb.chunk.css.map",
     "static/css/main.333c9fac.chunk.css.map": "/OTMovies/static/css/main.333c9fac.chunk.css.map",
-    "static/js/2.088e2ce0.chunk.js.LICENSE.txt": "/OTMovies/static/js/2.088e2ce0.chunk.js.LICENSE.txt",
+    "static/js/2.df850f55.chunk.js.LICENSE.txt": "/OTMovies/static/js/2.df850f55.chunk.js.LICENSE.txt",
     "static/media/boxicons.min.css": "/OTMovies/static/media/boxicons.cbd149c5.ttf",
     "static/media/footer-bg.4880e38d.png": "/OTMovies/static/media/footer-bg.4880e38d.png",
     "static/media/tmovie.ad0fc74a.png": "/OTMovies/static/media/tmovie.ad0fc74a.png"
@@ -19,8 +19,8 @@
   "entrypoints": [
     "static/js/runtime-main.ebb86fe7.js",
     "static/css/2.25dc03cb.chunk.css",
-    "static/js/2.088e2ce0.chunk.js",
+    "static/js/2.df850f55.chunk.js",
     "static/css/main.333c9fac.chunk.css",
-    "static/js/main.e06c240d.chunk.js"
+    "static/js/main.203897e9.chunk.js"
   ]
 }
