@@ -14,7 +14,7 @@ const Routes = () => {
                 exact
                 component={Home}
             />
-            <Route
+            {/* <Route
                 path='/:category/search/:keyword'
                 component={Catalog}
             />
@@ -25,7 +25,7 @@ const Routes = () => {
             <Route
                 path='/:category'
                 component={Catalog}
-            />
+            /> */}
         </Switch>
     );
 }
