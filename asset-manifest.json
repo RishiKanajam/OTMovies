@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/OldtalkiesMovies/static/css/main.85fa717a.chunk.css",
-    "main.js": "/OldtalkiesMovies/static/js/main.0f46d1b7.chunk.js",
-    "main.js.map": "/OldtalkiesMovies/static/js/main.0f46d1b7.chunk.js.map",
-    "runtime-main.js": "/OldtalkiesMovies/static/js/runtime-main.43ba0a83.js",
-    "runtime-main.js.map": "/OldtalkiesMovies/static/js/runtime-main.43ba0a83.js.map",
-    "static/css/2.25dc03cb.chunk.css": "/OldtalkiesMovies/static/css/2.25dc03cb.chunk.css",
-    "static/js/2.7e69d27a.chunk.js": "/OldtalkiesMovies/static/js/2.7e69d27a.chunk.js",
-    "static/js/2.7e69d27a.chunk.js.map": "/OldtalkiesMovies/static/js/2.7e69d27a.chunk.js.map",
-    "index.html": "/OldtalkiesMovies/index.html",
-    "static/css/2.25dc03cb.chunk.css.map": "/OldtalkiesMovies/static/css/2.25dc03cb.chunk.css.map",
-    "static/css/main.85fa717a.chunk.css.map": "/OldtalkiesMovies/static/css/main.85fa717a.chunk.css.map",
-    "static/js/2.7e69d27a.chunk.js.LICENSE.txt": "/OldtalkiesMovies/static/js/2.7e69d27a.chunk.js.LICENSE.txt",
-    "static/media/boxicons.min.css": "/OldtalkiesMovies/static/media/boxicons.cbd149c5.ttf",
-    "static/media/footer-bg.4880e38d.png": "/OldtalkiesMovies/static/media/footer-bg.4880e38d.png",
-    "static/media/tmovie.ad0fc74a.png": "/OldtalkiesMovies/static/media/tmovie.ad0fc74a.png"
+    "main.css": "/OldTMovies/static/css/main.52f69ab3.chunk.css",
+    "main.js": "/OldTMovies/static/js/main.c0753535.chunk.js",
+    "main.js.map": "/OldTMovies/static/js/main.c0753535.chunk.js.map",
+    "runtime-main.js": "/OldTMovies/static/js/runtime-main.3586cfda.js",
+    "runtime-main.js.map": "/OldTMovies/static/js/runtime-main.3586cfda.js.map",
+    "static/css/2.25dc03cb.chunk.css": "/OldTMovies/static/css/2.25dc03cb.chunk.css",
+    "static/js/2.088e2ce0.chunk.js": "/OldTMovies/static/js/2.088e2ce0.chunk.js",
+    "static/js/2.088e2ce0.chunk.js.map": "/OldTMovies/static/js/2.088e2ce0.chunk.js.map",
+    "index.html": "/OldTMovies/index.html",
+    "static/css/2.25dc03cb.chunk.css.map": "/OldTMovies/static/css/2.25dc03cb.chunk.css.map",
+    "static/css/main.52f69ab3.chunk.css.map": "/OldTMovies/static/css/main.52f69ab3.chunk.css.map",
+    "static/js/2.088e2ce0.chunk.js.LICENSE.txt": "/OldTMovies/static/js/2.088e2ce0.chunk.js.LICENSE.txt",
+    "static/media/boxicons.min.css": "/OldTMovies/static/media/boxicons.cbd149c5.ttf",
+    "static/media/footer-bg.4880e38d.png": "/OldTMovies/static/media/footer-bg.4880e38d.png",
+    "static/media/tmovie.ad0fc74a.png": "/OldTMovies/static/media/tmovie.ad0fc74a.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.43ba0a83.js",
+    "static/js/runtime-main.3586cfda.js",
     "static/css/2.25dc03cb.chunk.css",
-    "static/js/2.7e69d27a.chunk.js",
-    "static/css/main.85fa717a.chunk.css",
-    "static/js/main.0f46d1b7.chunk.js"
+    "static/js/2.088e2ce0.chunk.js",
+    "static/css/main.52f69ab3.chunk.css",
+    "static/js/main.c0753535.chunk.js"
   ]
 }
